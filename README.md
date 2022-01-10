@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ainnerpeacea
-- 👀 I’m interested in PY JS Android
-- 🌱 I’m currently learning frontend basics
+- 👀 I’m interested in PY JS  Data Science
+- 🌱 I’m currently learning Data Science AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ainnepeacea@gmial.com
 
